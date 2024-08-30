@@ -1,0 +1,6 @@
+@use 'reset';
+@use 'config';
+
+body {
+    background-color: config.$bg-color;
+}
